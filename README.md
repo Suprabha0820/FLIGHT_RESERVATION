@@ -1,0 +1,1 @@
+# The Flight Reservation System is a web-based application that allows users to search, book, and manage flight tickets easily. It is designed to provide a seamless experience for passengers, airline administrators, and travel agents.
